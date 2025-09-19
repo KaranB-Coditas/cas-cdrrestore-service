@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XTtc8ANnBDgmsjuYFYEFKTU82OsGH7a1+ZPmQYK/kU8=",
+  "Source": "cas-cdrrestore-service",
+  "BasePath": "_content/cas-cdrrestore-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

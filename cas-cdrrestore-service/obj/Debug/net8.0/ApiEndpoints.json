@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "cas_cdrrestore_service.Controllers.CdrRestoreController",
+    "Method": "RestoreAsync",
+    "RelativePath": "api/CdrRestore/RestoreAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "cas_cdrrestore_service.Models.RestoreRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cas_cdrrestore_service.Controllers.CdrRestoreController",
+    "Method": "RestoreManyAsync",
+    "RelativePath": "api/CdrRestore/RestoreManyAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "System.Collections.Generic.List\u00601[[cas_cdrrestore_service.Models.RestoreRequest, cas-cdrrestore-service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
